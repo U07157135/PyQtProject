@@ -1,0 +1,107 @@
+{
+    "1": {
+        "shape": "square",
+        "radius": 50,
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "position": [
+            50,
+            0
+        ]
+    },
+    "2": {
+        "shape": "circle",
+        "radius": 100,
+        "color": [
+            255,
+            128,
+            0
+        ],
+        "position": [
+            100,
+            0
+        ]
+    },
+    "3": {
+        "shape": "square",
+        "radius": 50,
+        "color": [
+            255,
+            255,
+            0
+        ],
+        "position": [
+            150,
+            0
+        ]
+    },
+    "4": {
+        "shape": "circle",
+        "radius": 100,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "position": [
+            200,
+            0
+        ]
+    },
+    "5": {
+        "shape": "square",
+        "radius": 50,
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "position": [
+            250,
+            0
+        ]
+    },
+    "6": {
+        "shape": "circle",
+        "radius": 100,
+        "color": [
+            0,
+            255,
+            255
+        ],
+        "position": [
+            300,
+            0
+        ]
+    },
+    "7": {
+        "shape": "square",
+        "radius": 50,
+        "color": [
+            255,
+            0,
+            255
+        ],
+        "position": [
+            350,
+            0
+        ]
+    },
+    "8": {
+        "shape": "circle",
+        "radius": 100,
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "position": [
+            400,
+            0
+        ]
+    },
+    "cross_line": "True"
+}

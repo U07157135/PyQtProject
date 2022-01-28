@@ -1,0 +1,55 @@
+{
+    "1": {
+        "shape": "square",
+        "radius": 50,
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "position": [
+            100,
+            0
+        ]
+    },
+    "2": {
+        "shape": "circle",
+        "radius": 50,
+        "color": [
+            255,
+            128,
+            0
+        ],
+        "position": [
+            100,
+            0
+        ]
+    },
+    "3": {
+        "shape": "square",
+        "radius": 50,
+        "color": [
+            255,
+            255,
+            0
+        ],
+        "position": [
+            100,
+            0
+        ]
+    },
+    "4": {
+        "shape": "circle",
+        "radius": 50,
+        "color": [
+            0,
+            255,
+            0
+        ],
+        "position": [
+            100,
+            0
+        ]
+    },
+    "cross_line": "True"
+}
